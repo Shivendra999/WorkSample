@@ -22,8 +22,8 @@ python -m venv venv
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 ## Install the required Python packages:
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
 
 ## Usage
 After setting up, you can start the Jupyter Notebook to run the analysis:
