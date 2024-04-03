@@ -1,5 +1,4 @@
 
-```markdown
 # EDA of Telco Customer Churn
 
 ## Project Overview
